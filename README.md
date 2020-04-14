@@ -43,8 +43,8 @@ pip3 install .
 # Usage
 
 ```sh
-git clone https://github.com/ytyaru/Python.SnakeGame.20200406140502
-cd Python.SnakeGame.20200406140502/src
+git clone https://github.com/ytyaru/Python.SnakeGame.20200414000001
+cd Python.SnakeGame.20200414000001/src
 ./run.sh
 ```
 
